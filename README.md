@@ -4,8 +4,9 @@
 
 ## Requirements
 
-- ROS Humble
-- MoveIt!
+- [ROS Humble](https://docs.ros.org/en/humble/Installation.html)
+- [MoveIt!](https://moveit.picknik.ai/humble/index.html)
+- [MoveIt! Tutorials](https://moveit.picknik.ai/humble/tutorials/installation/installation.html)
 - Rviz
 
 ## Installation
