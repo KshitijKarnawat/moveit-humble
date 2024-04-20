@@ -13,6 +13,8 @@
 ```bash
 # Install ROS Humble and MoveIt! if you haven't already
 
+# Make sure you have MoveIt! tutorials installed
+
 # Clone the repository / or donwload the zip file
 git clone git@github.com:KshitijKarnawat/moveit-humble.git
 
